@@ -3,7 +3,7 @@ In this project, I have build Skeleton, Electric motor, Triceratops (SET) 3D mod
 
 Demo: https://drive.google.com/drive/folders/1Unkd4isYESEuJR6w5V3_k0rLqHsTA3Zi?usp=sharing 
 
-Tools used: Unity (IDE), Vuforia (plugin), Blender (3D modelling)
+Tools used: Unity (IDE), Vuforia (SDK), Blender (3D modelling)
 
 You can also run it in Android device by installing .apk file provided in 'Build' folder.
 
