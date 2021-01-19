@@ -14,4 +14,11 @@ Hope you like it ;)
 
 <img src="https://drive.google.com/file/d/1BRn5qAopQWCBYOglrGplJcKPqrP1pgb3/view" width="300" title="QR code for website">
 
+![QR code for website](https://drive.google.com/file/d/1BRn5qAopQWCBYOglrGplJcKPqrP1pgb3/view)
+
+
+How to use:
+1. Install ARCore(android) or ARKit(iOS) in your mobile phone and check compatibility.
+2. Open website in mobile phone web browser.
+
 
