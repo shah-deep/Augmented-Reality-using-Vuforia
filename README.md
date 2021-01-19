@@ -12,13 +12,14 @@ If you are a developer, you can download 'SET_developerPackage.unitypackage' and
 Hope you like it ;)
 
 
-<img src="https://drive.google.com/file/d/1BRn5qAopQWCBYOglrGplJcKPqrP1pgb3/view" width="300" title="QR code for website">
 
-![QR code for website](https://drive.google.com/file/d/1BRn5qAopQWCBYOglrGplJcKPqrP1pgb3/view)
+<p align="center"><img src="https://github.com/shah-deep/Augmented-Reality-using-Vuforia/blob/main/SmartGuidance.jpg" title="QR code for website"></p>
 
 
-How to use:
-1. Install ARCore(android) or ARKit(iOS) in your mobile phone and check compatibility.
-2. Open website in mobile phone web browser.
+Requirements:
+
+1. ARCore/ARkit installed in mobile phone
+
+2. Use mobile browser for AR experience
 
 
