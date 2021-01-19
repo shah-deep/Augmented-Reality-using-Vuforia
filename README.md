@@ -10,3 +10,8 @@ You can also run it in Android device by installing .apk file provided in 'Build
 If you are a developer, you can download 'SET_developerPackage.unitypackage' and import it in your project. Must configure Vuforia before doing this.
 
 Hope you like it ;)
+
+
+<img src="https://drive.google.com/file/d/1BRn5qAopQWCBYOglrGplJcKPqrP1pgb3/view?usp=sharing" width="300" title="QR code for website">
+
+
