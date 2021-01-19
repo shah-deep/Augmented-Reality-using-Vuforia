@@ -12,6 +12,6 @@ If you are a developer, you can download 'SET_developerPackage.unitypackage' and
 Hope you like it ;)
 
 
-<img src="https://drive.google.com/file/d/1BRn5qAopQWCBYOglrGplJcKPqrP1pgb3/view?usp=sharing" width="300" title="QR code for website">
+<img src="https://drive.google.com/file/d/1BRn5qAopQWCBYOglrGplJcKPqrP1pgb3/view" width="300" title="QR code for website">
 
 
