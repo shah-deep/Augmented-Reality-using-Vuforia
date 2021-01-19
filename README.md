@@ -13,7 +13,6 @@ Hope you like it ;)
 
 
 Here is link to our website:
-
 <b><a href="https://smartguidance.herokuapp.com/"> https://smartguidance.herokuapp.com/ </a></b>
 
 
