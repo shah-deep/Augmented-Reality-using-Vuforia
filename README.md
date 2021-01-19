@@ -11,8 +11,8 @@ If you are a developer, you can download 'SET_developerPackage.unitypackage' and
 
 Hope you like it ;)
 
-
-Here is link to our website:
+<br>
+Here is the link to our website: <br>
 <b><a href="https://smartguidance.herokuapp.com/"> https://smartguidance.herokuapp.com/ </a></b>
 
 
