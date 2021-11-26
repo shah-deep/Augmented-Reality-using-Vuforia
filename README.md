@@ -1,4 +1,4 @@
-# Eduction with Augmented Reality using Vuforia
+# Education with Augmented Reality using Vuforia
 In this project, I have build Skeleton, Electric motor, Triceratops (SET) 3D models for Education with AR. The user can also interact with them, making it 4D AR application.
 
 <a href="https://drive.google.com/drive/folders/1Unkd4isYESEuJR6w5V3_k0rLqHsTA3Zi?usp=sharing">SET Demo Clips </a> | <a href="https://drive.google.com/file/d/1t3tRGtd2t9-lPcoGBZfG8bcE_IJJTrbh/view?usp=sharing">S.E.A.R (Full Project) Demo </a>
