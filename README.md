@@ -1,9 +1,11 @@
-# Smart Education with Augmented Reality using Vuforia
+# Smart Education with Augmented Reality
 In this project, I have build Skeleton, Electric motor, Triceratops (SET) 3D models for Education with AR. The user can also interact with them, making it 4D AR application.
 
 ![](Triceratops.gif)
 
-<a href="https://drive.google.com/drive/folders/1Unkd4isYESEuJR6w5V3_k0rLqHsTA3Zi?usp=sharing">SET Demo Clips </a> | <a href="https://drive.google.com/file/d/1t3tRGtd2t9-lPcoGBZfG8bcE_IJJTrbh/view?usp=sharing">S.E.A.R (Full Project) Demo </a>
+
+
+Complete Video:  <a href="https://drive.google.com/file/d/1t3tRGtd2t9-lPcoGBZfG8bcE_IJJTrbh/view?usp=sharing">S.E.A.R (Full Project) Demo </a>
 
 Tools used: Unity (IDE), Vuforia (SDK), Blender (3D modelling)
 
