@@ -1,7 +1,7 @@
 # Smart Education with Augmented Reality
 In this project, I have build Skeleton, Electric motor, Triceratops (SET) 3D models for Education with AR. The user can also interact with them, making it 4D AR application.
 
-![](Triceratops.gif)
+![Loading Demo...   Please Wait...](Triceratops.gif)
 
 
 
